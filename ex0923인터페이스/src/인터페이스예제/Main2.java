@@ -11,6 +11,7 @@ public class Main2 {
 		// GameDummy p1 = new GameDummy(); // --> 임시 테스트용도!
 		PlusGame2 p1 = new PlusGame2();
 
+		System.out.println("수정수정");
 
 		System.out.println("=====사칙연산게임=====");
 
